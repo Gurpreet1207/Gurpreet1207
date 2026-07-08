@@ -226,7 +226,6 @@ to set one or more alarms that sound at a specified time.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gurpreet%1207-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gurpreetkaur)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Gurpreet%1207-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@kaurgurpreet21k1)
 [![Email](https://img.shields.io/badge/Gmail-Gurpreetkaur%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaurgurpreet21kaur@gmail.com)
 
